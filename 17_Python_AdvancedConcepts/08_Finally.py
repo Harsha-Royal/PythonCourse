@@ -8,4 +8,4 @@ except:
     print(f"Some error occured :")
 
 finally:
-    print("I will be executed always")
+    print("I will be executed always even with error")
